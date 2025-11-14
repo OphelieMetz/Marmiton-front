@@ -1,0 +1,117 @@
+/* COMMON RULES */
+/* COMMON RULES */
+/* COMMON RULES */
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  background-color: #efefef;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 28px;
+}
+
+section {
+  background-color: white;
+  padding: 60px 30px;
+  border-radius: 20px;
+  width: 1440px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #393c6c;
+  line-height: 22px;
+}
+
+header {
+  background-color: white;
+  border-bottom: solid 1px #f3735f;
+  width: 1440px;
+  height: 80px;
+}
+
+main {
+  margin: 41px 0;
+}
+
+/* COMMON RULES */
+/* COMMON RULES */
+/* COMMON RULES */
+
+.logo {
+  width: 200px;
+  height: 31.47px;
+  object-position: center;
+}
+
+.soustitre {
+  text-align: center;
+  font-size: 12px;
+}
+
+.temps {
+  width: 400px;
+  height: 45px;
+  background-color: #8a98b1;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  line-height: 200%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  font-size: 22px;
+}
+
+.imagescrepes {
+  width: 1024px;
+  padding: 40px 70px 0 70px;
+}
+
+.crepes {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+  margin: 0 15px;
+}
+
+ul {
+  color: #7e7e7e;
+  margin-left: 12px;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+footer {
+  text-align: center;
+  color: #6c6c6c;
+  font-size: 12px;
+}
